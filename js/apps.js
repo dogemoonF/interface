@@ -660,7 +660,7 @@ function getreflink() {
     if (!document.getElementById('refaddress').value) {
         Swal.fire(
             'Referral Alert',
-            'Please Enter You Address.',
+            'Please Enter Your Address.',
             'error'
         )
     } else {
