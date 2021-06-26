@@ -671,7 +671,7 @@ function getreflink() {
                 'error'
             )
         } else {
-            document.getElementById('refaddress').value = 'https://Dogemoon.net?ref=' + document.getElementById('refaddress').value;
+            document.getElementById('refaddress').value = 'https://dogemoon.finance?ref=' + document.getElementById('refaddress').value;
         }
     }
 }
